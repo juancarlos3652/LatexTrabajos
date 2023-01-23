@@ -1,0 +1,206 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{ref_05}{online}{}
+      \name{author}{1}{}{%
+        {{hash=945d4a0f6543d67d720385d81b379830}{%
+           family={Carballo},
+           familyi={C\bibinitperiod},
+           given={Carlos\bibnamedelimb Adrián\bibnamedelima Jiménez},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{945d4a0f6543d67d720385d81b379830}
+      \strng{fullhash}{945d4a0f6543d67d720385d81b379830}
+      \strng{bibnamehash}{945d4a0f6543d67d720385d81b379830}
+      \strng{authorbibnamehash}{945d4a0f6543d67d720385d81b379830}
+      \strng{authornamehash}{945d4a0f6543d67d720385d81b379830}
+      \strng{authorfullhash}{945d4a0f6543d67d720385d81b379830}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MOVIMIENTO ARMÓNICO SIMPLE (MAS)}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://repositoriotec.tec.ac.cr/bitstream/handle/2238/10191/MAS.pdf?sequence=1&isAllowed=y
+      \endverb
+      \verb{url}
+      \verb https://repositoriotec.tec.ac.cr/bitstream/handle/2238/10191/MAS.pdf?sequence=1&isAllowed=y
+      \endverb
+    \endentry
+    \entry{ref_07}{book}{}
+      \name{author}{1}{}{%
+        {{hash=e1bb158d8f927891db8faa30c3a53d4a}{%
+           family={Resnick},
+           familyi={R\bibinitperiod},
+           given={Krane},
+           giveni={K\bibinitperiod},
+           suffix={Halliday},
+           suffixi={H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=95d1d294943feb7484af5904805fa3cb}{%
+           family={Patria.},
+           familyi={P\bibinitperiod},
+           given={Grupo\bibnamedelima Editorial},
+           giveni={G\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \strng{namehash}{e1bb158d8f927891db8faa30c3a53d4a}
+      \strng{fullhash}{e1bb158d8f927891db8faa30c3a53d4a}
+      \strng{bibnamehash}{e1bb158d8f927891db8faa30c3a53d4a}
+      \strng{authorbibnamehash}{e1bb158d8f927891db8faa30c3a53d4a}
+      \strng{authornamehash}{e1bb158d8f927891db8faa30c3a53d4a}
+      \strng{authorfullhash}{e1bb158d8f927891db8faa30c3a53d4a}
+      \strng{editorbibnamehash}{95d1d294943feb7484af5904805fa3cb}
+      \strng{editornamehash}{95d1d294943feb7484af5904805fa3cb}
+      \strng{editorfullhash}{95d1d294943feb7484af5904805fa3cb}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{5}
+      \field{title}{Física. Volumen I.}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{ref_06}{book}{}
+      \name{author}{1}{}{%
+        {{hash=08ec94162ff18000a501c215bd884cea}{%
+           family={Sears},
+           familyi={S\bibinitperiod},
+           given={Young},
+           giveni={Y\bibinitperiod},
+           suffix={Zemansky},
+           suffixi={Z\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3679d9f55a8581914794e0a9c8afd491}{%
+           family={Education.},
+           familyi={E\bibinitperiod},
+           given={Pearson},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \strng{namehash}{08ec94162ff18000a501c215bd884cea}
+      \strng{fullhash}{08ec94162ff18000a501c215bd884cea}
+      \strng{bibnamehash}{08ec94162ff18000a501c215bd884cea}
+      \strng{authorbibnamehash}{08ec94162ff18000a501c215bd884cea}
+      \strng{authornamehash}{08ec94162ff18000a501c215bd884cea}
+      \strng{authorfullhash}{08ec94162ff18000a501c215bd884cea}
+      \strng{editorbibnamehash}{3679d9f55a8581914794e0a9c8afd491}
+      \strng{editornamehash}{3679d9f55a8581914794e0a9c8afd491}
+      \strng{editorfullhash}{3679d9f55a8581914794e0a9c8afd491}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{13}
+      \field{title}{Física Universitaria. Volumen I.}
+      \field{year}{2013}
+      \true{nocite}
+    \endentry
+    \entry{ref_08}{book}{}
+      \name{author}{1}{}{%
+        {{hash=b5361785bdb9df14d9e86a36b7790ae1}{%
+           family={Serway},
+           familyi={S\bibinitperiod},
+           given={J.W.},
+           giveni={J\bibinitperiod},
+           suffix={R.A.\bibnamedelimi y\bibnamedelima Jewett},
+           suffixi={R\bibinitperiod\bibinitdelim y\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=617d599a0c7aa9565bdb3eab75350ecb}{%
+           family={C.V.},
+           familyi={C\bibinitperiod},
+           given={Cengage\bibnamedelimb Learning\bibnamedelimb Editores\bibnamedelima S.A.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \strng{namehash}{b5361785bdb9df14d9e86a36b7790ae1}
+      \strng{fullhash}{b5361785bdb9df14d9e86a36b7790ae1}
+      \strng{bibnamehash}{b5361785bdb9df14d9e86a36b7790ae1}
+      \strng{authorbibnamehash}{b5361785bdb9df14d9e86a36b7790ae1}
+      \strng{authornamehash}{b5361785bdb9df14d9e86a36b7790ae1}
+      \strng{authorfullhash}{b5361785bdb9df14d9e86a36b7790ae1}
+      \strng{editorbibnamehash}{617d599a0c7aa9565bdb3eab75350ecb}
+      \strng{editornamehash}{617d599a0c7aa9565bdb3eab75350ecb}
+      \strng{editorfullhash}{617d599a0c7aa9565bdb3eab75350ecb}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{7}
+      \field{title}{Física Para Ciencias e Ingeniería. Volumen I.}
+      \field{year}{2008}
+      \true{nocite}
+    \endentry
+    \entry{ref_09}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c5cfb0459aa7c355bcd1b1fcbe80325c}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={y\bibnamedelima Lou},
+           giveni={y\bibinitperiod\bibinitdelim L\bibinitperiod},
+           suffix={Buffa},
+           suffixi={B\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=5af5617c69f92bd946131e6449c7f570}{%
+           family={educación.},
+           familyi={e\bibinitperiod},
+           given={Pearson},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {México}%
+      }
+      \strng{namehash}{c5cfb0459aa7c355bcd1b1fcbe80325c}
+      \strng{fullhash}{c5cfb0459aa7c355bcd1b1fcbe80325c}
+      \strng{bibnamehash}{c5cfb0459aa7c355bcd1b1fcbe80325c}
+      \strng{authorbibnamehash}{c5cfb0459aa7c355bcd1b1fcbe80325c}
+      \strng{authornamehash}{c5cfb0459aa7c355bcd1b1fcbe80325c}
+      \strng{authorfullhash}{c5cfb0459aa7c355bcd1b1fcbe80325c}
+      \strng{editorbibnamehash}{5af5617c69f92bd946131e6449c7f570}
+      \strng{editornamehash}{5af5617c69f92bd946131e6449c7f570}
+      \strng{editorfullhash}{5af5617c69f92bd946131e6449c7f570}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{6}
+      \field{title}{Física.}
+      \field{year}{2007}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
