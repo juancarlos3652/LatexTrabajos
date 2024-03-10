@@ -1,0 +1,21 @@
+# Archivo: .editorconfig
+
+# Raíz del proyecto
+root = true
+
+# Línea de fin de archivo (EOL) en UNIX-style (LF)
+[*]
+end_of_line = lf
+
+# Codificación de caracteres
+charset = utf-8
+
+# Indentación general
+[*.tex]
+indent_style = space
+indent_size = 2
+
+max_line_length = 150
+
+# Ignorar archivos generados
+[build/*]

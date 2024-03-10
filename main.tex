@@ -1,0 +1,67 @@
+\documentclass{article}
+% --------------------------------------------------
+\input{src/configs/basic}
+\input{src/configs/colors.tex}
+\input{src/configs/packages}
+
+\usepackage[fixlanguage]{babelbib}
+    \bibliographystyle{babunsrt}
+%
+\usepackage{url}
+% --------------------------------------------------
+\copyrightyear{2023}
+\university{Universidad Nacional de San Cristóbal de Huamanga}
+\faculty{Facultad de Ingeniería de Minas, Geología y Civil}
+\dept{Escuela Profesional de Ingeniería de Sistemas}
+\course{PSICOLOGÍA Y DESARROLLO HUMANO (PS $-$ 182)}
+\title{Desarrollo Humano}
+\tema{Desarrollo de la niñez, entre las edades de 7 a 9 años, características físicas, actividades básicas y fenómenos psíquicos}
+\teacher{Dr\@. Sonia R. Chavarria Vargas}
+% --------------------------------------------------
+
+\usepackage{fancyhdr}
+
+% Configurar el estilo de página
+\fancyhf{} % Borrar todas las configuraciones actuales de cabecera y pie de página
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[R]{\thepage} % Número de página en la parte inferior derecha
+\pagestyle{fancy} % Activar el estilo de página definido
+
+\begin{document}
+
+\selectlanguage{spanish}
+\thess{}
+\pagenumbering{roman}
+%\includepdf[pages=1]{_Img/Portada.pdf}
+%\pagestyle{empty}
+% --------------------------------------------------
+\include{src/components/cover}
+% --------------------------------------------------
+\setlength{\parskip}{8pt plus 1pt minus 1pt}
+% --------------------------------------------------
+%\include{src/components/abstract}
+% --------------------------------------------------
+
+\pdfbookmark[section]{\contentsname}{toc}
+\tableofcontents
+\clearpage
+\pagenumbering{arabic}
+%\pagestyle{plain}
+\pagestyle{fancy}
+\setlength{\parskip}{8pt plus 1pt minus 1pt}
+% --------------------------------------------------
+\input{src/components/abstract.tex}
+% --------------------------------------------------
+\input{src/components/introducction}
+% --------------------------------------------------
+\input{src/components/theoretical_mark}
+% --------------------------------------------------
+\input{src/components/part_1}
+% --------------------------------------------------
+%\include{src/components/table}
+% --------------------------------------------------
+\include{src/components/conclusions}
+% --------------------------------------------------
+\nocite{*}
+  \bibliography{src/referencias}
+\end{document}
